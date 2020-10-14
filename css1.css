@@ -1,0 +1,50 @@
+body{
+    background-color: 	#F5F5DC;   
+    font-family: Arial, Helvetica, sans-serif; 
+    margin-left: 40px;
+}
+h2{
+    text-decoration: underline;
+}
+a{
+    text-decoration: none;
+}
+a:hover{
+    color: rosybrown;
+}
+.top-heading{
+    position: relative;
+    margin-top: 60px;
+    text-align: center;
+    font-style: normal;
+    font-size: xx-large;
+}
+#college{
+    width: 20%;
+}
+#th12{
+   width: 25%;
+}
+.links{
+    width: 40%;
+}
+.education{
+    width: 100%;
+    margin-top: 90px;
+}
+.skills{
+    width: 40%;
+}
+.courses{
+    width: 40%;
+}
+.right-container{
+    position: absolute;
+    margin-left: 750px;
+    margin-top: 40px;
+    width:42%;
+    line-height: 1.5;
+}
+.left-container{
+    margin-left: 30px;
+}
